@@ -28,6 +28,12 @@ I specialize in turning complex datasets into clear, actionable stories. My goal
 ---
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 [your-email@example.com]
+
+<a href="https://www.linkedin.com/in/ali-kamal-0a1b363a0">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:alikamal9998765@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+
 
